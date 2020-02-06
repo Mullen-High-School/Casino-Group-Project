@@ -6,8 +6,8 @@ public class Roulette
 		static Scanner userIntInput = new Scanner(System.in);
 		public static void main(String[] args)
 			{
-				// TODO Auto-generated method stub
-
+				welcomePlayer();
+				play();
 			}
 		public static void welcomePlayer()
 			{
