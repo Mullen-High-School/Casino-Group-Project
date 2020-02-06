@@ -6,13 +6,13 @@ public class playSlotMachine
 		public static void playSlots()
 			{
 				String[]objects = new String [27];
-				objects[0] = "January";
-				objects[1] = "Feburary";
-				objects[2] = "March";
-				objects[3] = "April";
-				objects[4] = "May";
-				objects[5] = "June";
-				objects[6] = "July";
+				objects[0] = "cherry";
+				objects[1] = "orange";
+				objects[2] = "apple";
+				objects[3] = "banana";
+				objects[4] = "7";
+				objects[5] = "wild";
+				/*objects[6] = "July";
 				objects[7] = "August";
 				objects[8] = "September";
 				objects[9] = "October";
@@ -32,6 +32,6 @@ public class playSlotMachine
 				objects[23] = "December";
 				objects[24] = "January";
 				objects[25] = "Feburary";
-				objects[26] = "cherry";
+				objects[26] = "cherry";*/
 			}
 	}
