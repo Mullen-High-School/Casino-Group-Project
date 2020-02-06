@@ -16,6 +16,5 @@ public class prizes
 			prizes.add(new prize("Prize 8", 8));
 			prizes.add(new prize("Prize 9", 9));
 			prizes.add(new prize("Prize 10", 10));
-			Collections.shuffle(prizes);
 		}
 	}
